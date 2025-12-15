@@ -38,8 +38,8 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img alt="Kioshy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Wisdom-source&show_icons=true&theme=radical&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisdom-source&layout=compact&theme=radical" />
+  <img alt="Kioshy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kioshy-py&show_icons=true&theme=radical&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kioshy-py&layout=compact&theme=radical" />
 </p>
 
 ---
