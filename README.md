@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá, eu sou Kioshy Santos de Assis Junior 👋</h1>
 <p align="center">
-  <em>Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Programação | Focado em Engenharia de Dados</em>
+  <em>Estudante Desenvolvimento de Sistemas | Entusiasta de Programação | Focado em APRENDERs</em>
 </p>
 
 ---
